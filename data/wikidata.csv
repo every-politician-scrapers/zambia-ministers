@@ -1,31 +1,26 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q1243653,Dora Siliya,Dora Siliya,female,1970-10-08,11,,,Q45396256,Minister - Agriculture,Q1243653-1C71FC70-9894-43EB-B07D-47CC2F727BF2
-Q1403691,Felix Mutati,Felix Mutati,male,1959-01-29,11,,,Q45396395,Finance Minister of Zambia,Q1403691-58E41C86-F539-40B0-BFC2-F8269ABAAC18
-Q19560917,Harry Kalaba,Harry Kalaba,male,1976-06-12,11,,,Q18204398,Minister of Foreign Affairs,Q19560917-1426E4C1-24F2-48B0-9C78-772567266452
-Q27063131,Joyce Nonde-Simukoko,Joyce Nonde-Simukoko,female,1957-12-10,11,,,Q45396560,Minister - Labour and Social Security,Q27063131-504380BC-4C27-4718-927B-2D962275331C
-Q27063175,Davies Chama,Davies Chama,male,1964-08-21,11,,,Q45396374,Minister - Defense,Q27063175-4AB96594-1FAD-47B4-86B9-FB051E351047
-Q27063490,Chitalu Chilufya,Chitalu Chilufya,male,1972-07-15,11,,,Q45396475,Minister - Health,Q27063490-4A847745-954E-407D-945E-E9469C6BBFA0
-Q27063683,Stephen Kampyongo,Stephen Kampyongo,male,1972-06-12,11,,,Q45396504,Minister - Home Affairs,Q27063683-2467DC46-1FE6-4F98-8240-79256AA12724
-Q27063686,Godfridah Sumaili,Godfridah Sumaili,female,1957-05-26,11,,,Q45396670,Minister - Religious Affairs and National Guidance,Q27063686-B7E13CC1-02CB-46C0-819B-D1E8AE2AB86C
-Q27517522,Micheal Katambo,Micheal Katambo,male,1969-09-16,11,,,Q45396409,Minister - Fisheries and Livestock,Q27517522-186D4D9A-5274-42CA-AD95-151BE42FB592
-Q27662555,Brian Mushimba,Brian Mushimba,male,1974-11-07,11,,,Q45396700,Minister - Transport and Communication,Q27662555-BD00E0BE-71A3-409D-ACD7-602505A4E019
-Q27891778,Nkandu Luo,Nkandu Luo,female,1951-12-21,11,,,Q45396490,Minister - Higher Education,Q27891778-D2AF7B02-5A54-4B5F-B4A4-379E9DDD8CF3
-Q27947831,Jean Kapata,Jean Kapata,female,1960-12-25,11,,,Q45396576,Minister - Lands and Natural Resources,Q27947831-9A304BB8-4173-47B1-BC2C-EABE2D697E36
-Q29539929,Emerine Kabanshi,Emerine Kabanshi,female,1964-11-27,11,,,Q45396356,Minister - Community Development and Social Welfare,Q29539929-3502CF5E-AF5E-4E6A-BA3A-7FA8E77174FD
-Q29539935,Kampamba Chilumba,Kampamba Chilumba,female,1976-03-03,11,,,Q45396529,Minister - Information and Broadcasting,Q29539935-F45626DC-A4C1-4127-820A-703EF8BA696E
-Q29539941,Sylvia Chalikosa,Sylvia Chalikosa,female,1964-03-29,11,,,Q45396637,Minister - Office of the Vice President,Q29539941-21E60EA5-5E1C-47DE-9D0B-5EFC60A4CE47
-Q29539945,Lloyd Kaziya,Lloyd Kaziya,male,1969-07-27,11,,,Q45396718,"Minister - Water Development, Sanitation and Environmental Protection",Q29539945-121C7204-8FFC-4756-9632-7F00D62209D5
-Q29539950,Chomba Sikazwe,Chomba Sikazwe,male,1961-01-01,11,,,Q45396654,Minister - Presidential Affairs,Q29539950-89490D75-54A6-4F67-906F-EB6C04548CD7
-Q29539957,Ronald Chitotela,Ronald Chitotela,male,1972-04-21,11,,,Q45396519,Minister - Housing and Infrastructure Development,Q29539957-984EA2CC-EA61-4859-9A88-C2F7D249267A
-Q29539961,Matthew Nkhuwa,Matthew Nkhuwa,male,1954-01-24,11,,,Q45396735,Minister - Works and Supply,Q29539961-9724BF53-CAC9-4DA4-BFEE-FEDD1EC38508
-Q29539966,Lucky Mulusa,Lucky Mulusa,male,1965-03-30,11,,,Q45396621,Minister - National Development and Planning,Q29539966-A0B6DA0A-3ECA-4F0D-8646-711F690D5E07
-Q29543126,Christopher Yaluma,Christopher Yaluma,male,1952-05-31,11,,,Q45396605,Minister - Mines and Minerals Development,Q29543126-A10AD0F6-1976-4A58-A097-13123CDB6506
-Q29555795,Vincent Mwale,Vincent Mwale,male,1978-12-05,11,,,Q45396591,Minister - Local Government,Q29555795-4B019489-9CB6-4A9B-A8DF-E6CBD00B08C8
-Q29555797,Moses Mawere,Moses Mawere,male,1980-03-14,11,,,Q45396753,"Minister - Youth, Sport and Child Development",Q29555797-A8078228-7825-47B2-82AE-AE35A3BD2AD2
-Q29555800,Charles Banda,Charles Banda,male,1956-11-22,11,,,Q45396682,Minister - Tourism and Arts,Q29555800-C9DB4F69-D8EF-4B6D-9F05-4D7AF3336421
-Q29555804,Dennis Wanchinga,Dennis Wanchinga,male,1947-11-10,11,,,Q45396461,Minister - General Education,Q29555804-1442539A-7A9B-4006-A54D-9010886A1B0A
-Q29556814,David Mabumba,David Mabumba,male,1971-04-23,11,,,Q45396386,Minister - Energy,Q29556814-C951CD01-F4D3-4D50-85C6-8D276074863E
-Q29556823,Lawrence Sichalwe,Lawrence Sichalwe,male,1961-12-24,11,,,Q45396321,Minister - Chiefs and Traditional Affairs,Q29556823-2695F42B-B8E2-4656-8C2C-16E13CAD8942
-Q5565823,Given Lubinda,Given Lubinda,male,1963-05-15,11,,,Q45396544,Justice Minister of Zambia,Q5565823-36A4BB93-4484-4D55-9B86-5411BAA72088
-Q6759764,Margaret Mwanakatwe,Margaret Mwanakatwe,female,1961-11-01,11,,,Q45396340,"Minister - Commerce, Trade and Industry",Q6759764-42D1E7BE-731C-4A50-8A1F-E1E78CB4A4E5
-Q7532178,Situmbeko Musokotwane,Situmbeko Musokotwane,male,1956-05-25,11,,,Q45396395,Finance Minister of Zambia,Q7532178-5324DCF9-EC85-4435-8DF0-DD46D62D38DB
+Q109935616,Reuben Mtolo Phiri,Reuben Mtolo Phiri,male,1964-11-11,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396256,Minister - Agriculture,Q109935616-D465E77A-CC33-4C3B-B06B-A2EAC0330085
+Q109935617,Chipoka Mulenga,Chipoka Mulenga,male,1981-11-10,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396340,"Minister - Commerce, Trade and Industry",Q109935617-ED0B43DF-4FCD-4575-A72F-37AFDCFDAF59
+Q109935618,Doreen Mwamba,Doreen Mwamba,female,,,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396356,Minister - Community Development and Social Services,Q109935618-F3A0511F-3D11-457C-A9EC-76BCA1E8BB76
+Q109935620,Peter Chibwe Kapala,Peter Chibwe Kapala,,,,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396386,Minister - Energy,Q109935620-7BF90FB0-E170-491C-B60B-CEBBAF71BAA4
+Q109935621,Collins Nzovu,Collins Nzovu,male,,,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935622,Minister - Green Economy and Environment,Q109935621-FB8990C2-7736-45CC-B3FA-1CAE0EC4BC99
+Q109935624,Mulambo Hamakuni Haimbe,Mulambo Hamakuni Haimbe,male,1976-05-12,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396544,Minister - Justice,Q109935624-0EE19D6D-05F3-4487-95FE-0D1B435FE359
+Q109935626,Elijah Julaki Muchima,Elijah Julaki Muchima,male,1957-05-26,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396576,Minister - Lands and Natural Resources,Q109935626-580FC03A-A07B-46A4-B98E-7E0FD146E1BB
+Q109935630,Paul C C Kabuswe,Paul C C Kabuswe,male,1973-10-08,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396605,Minister - Mines and Minerals Development,Q109935630-743FFA47-6E63-4379-8416-C50A02185D4A
+Q109935631,Elias Mubanga,Elias Mubanga,,,,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935632,Minister - Small and Medium Enterprises Development,Q109935631-595E35B7-702C-4CF1-A11A-BD6D68C5EF84
+Q109935634,Rhodine Sikumba,Rhodine Sikumba,male,1980-03-29,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935635,Minister - Tourism,Q109935634-A7281B18-D007-47A7-BB83-D5991DEDBDD7
+Q109935637,Frank Tayali,Frank Tayali,,,,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935638,Minister - Transport and Logistics,Q109935637-86C5C7BB-3D41-4D2B-BDCD-AD7E98647145
+Q109935639,Mike Mposha,Mike Mposha,male,,,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396718,Minister - Water Development and Sanitation,Q109935639-6F7C0980-6D91-4C73-8075-C23CD1B30BDF
+Q109935640,Elvis Chishala Nkandu,Elvis Chishala Nkandu,male,1971-12-31,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935641,"Minister - Youth, Sport and Arts",Q109935640-F4667457-E002-4CC1-91D6-CA4809ACCA39
+Q1403691,Felix C Mutati,Felix Mutati,male,1959-01-29,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935633,Minister - Technology and Science,Q1403691-1A024E86-F930-4485-A03F-0FD918513096
+Q2374229,Sylvia Masebo,Sylvia Masebo,female,1963-03-07,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396475,Minister - Health,Q2374229-E63C3F02-090A-43CA-96CB-4CD84D23DB3A
+Q45384113,Ambrose Lwiji Lufuma,Ambrose Lufuma,male,1957-10-26,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396374,Minister - Defence,Q45384113-3F2DEB37-2CA5-4B57-982E-DA218B456384
+Q45384153,Brenda Mwika Tambatamba,Brenda Tambatamba,female,1961-04-29,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396560,Minister - Labour and Social Security,Q45384153-4876B7DC-35D8-44AE-B19D-89F2ABFC8E44
+Q45384216,Chushi C Kasanda,Chushi Kasanda,female,1978-02-15,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396529,Minister - Information and Media,Q45384216-C079D23C-600B-4E4C-940B-B7E60CE9A30A
+Q45384330,Douglas Munsaka Syakalima,Douglas Syakalima,male,1967-03-25,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396461,Minister - Education,Q45384330-75413A5B-28ED-40C4-84E3-0767C6FD1EA2
+Q45384471,Gary G Nkombo,Gary Nkombo,male,1965-03-01,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935628,Minister - Local Government and Rural Development,Q45384471-55FD6F31-A140-4B9A-911B-D69C25193059
+Q45384555,Jacob Jack Mwiimbu,Jacob Mwiimbu,male,1959-07-23,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396504,Minister - Home Affairs and Internal Security,Q45384555-0205E857-5F7D-479B-8FF3-406729642924
+Q45384683,Makozo Chikote,Makozo Chikote,male,1975-05-25,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396409,Minister - Fisheries and Livestock,Q45384683-45C3461A-D53A-442E-BD8A-73FA9EBB5A09
+Q45385044,Stanley Kasongo Kakubo,Stanley Kakubo,male,1980-04-24,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q18204398,Minister - Foreign Affairs and International Cooperation,Q45385044-6B09C467-11D7-4B84-9D58-0C7491B989C5
+Q7532178,Situmbeko Musokotwane,Situmbeko Musokotwane,male,1956-05-25,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q45396395,Minister - Finance and National Planning,Q7532178-B958328D-8F75-4CCB-98DF-D1B253E6B693
+Q98083567,Charles Milupi,Charles Milupi,male,1954-04-25,11,https://www.parliament.gov.zm/ministers/cabinet,2021-12-05,Q109935623,"Minister - Infrastructure, Housing Urban and Development",Q98083567-F894BC2E-4A68-4FF8-812F-4C8C83136229
