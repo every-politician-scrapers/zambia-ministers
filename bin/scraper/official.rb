@@ -7,20 +7,28 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('.views-field-title a').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.views-field-field-portfolio .field-content').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.view-content .views-row')
     end
   end
 end
 
-file = Pathname.new 'html/official.html'
-puts EveryPoliticianScraper::FileData.new(file).csv
+# TODO: make this a bit less repetitive
+
+file1 = Pathname.new 'mirror/ministers-1.html'
+puts EveryPoliticianScraper::FileData.new(file1).csv
+
+file2 = Pathname.new 'mirror/ministers-2.html'
+puts EveryPoliticianScraper::FileData.new(file2).csv.lines.drop(1).join
+
+file3 = Pathname.new 'mirror/ministers-3.html'
+puts EveryPoliticianScraper::FileData.new(file3).csv.lines.drop(1).join
