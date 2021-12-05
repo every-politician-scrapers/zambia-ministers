@@ -1,0 +1,106 @@
+{
+  "title": "Gary Nkombo",
+  "pageID": 69299310,
+  "categories": [
+    "21st-century Zambian politicians",
+    "1965 births",
+    "United Party for National Development politicians",
+    "Members of the National Assembly (Zambia)",
+    "Government ministers of Zambia",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gary Nkombo(March 1, 1965) is a Zambian politician.",
+              "links": [
+                {
+                  "text": "Zambian",
+                  "type": "internal",
+                  "page": "Zambia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gary Nkombo"
+                ]
+              }
+            },
+            {
+              "text": "He is minister of local government and a member of the National Assembly for Mazabuka central under the United Party for National Development.",
+              "links": [
+                {
+                  "text": "minister",
+                  "type": "internal",
+                  "page": "Minister (government)"
+                },
+                {
+                  "text": "local government",
+                  "type": "internal",
+                  "page": "local government"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Zambia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zambian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gary Nkombo"
+          },
+          "office": {
+            "text": "Minister of Local Government"
+          },
+          "country": {
+            "text": "Zambia"
+          },
+          "year": {
+            "text": "2021",
+            "number": 2021
+          },
+          "state": {
+            "text": "Lusaka"
+          },
+          "party": {
+            "text": "UPND"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Gary G Nkombo ~Minister - Local Government and Rural Development (Sep-2021) {{!}} National Assembly of Zambia",
+          "url": "https://www.parliament.gov.zm/node/9436",
+          "access-date": "2021-11-18",
+          "website": "www.parliament.gov.zm",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Gary G Nkombo {{!}} National Assembly of Zambia",
+          "url": "https://www.parliament.gov.zm/node/82?page=1",
+          "access-date": "2021-11-18",
+          "website": "www.parliament.gov.zm",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

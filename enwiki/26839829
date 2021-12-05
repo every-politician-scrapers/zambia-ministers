@@ -1,0 +1,246 @@
+{
+  "title": "Situmbeko Musokotwane",
+  "pageID": 26839829,
+  "categories": [
+    "Living people",
+    "1956 births",
+    "Finance Ministers of Zambia",
+    "Members of the National Assembly (Zambia)",
+    "United Party for National Development politicians",
+    "Zambian economists",
+    "University of Konstanz alumni",
+    "University of Zambia alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Situmbeko Musokotwane (born 25 May 1956) is Zambian politician and Economist and the Minister of Finance of Zambia; he is also Liuwa Member of Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Economist"
+                },
+                {
+                  "text": "Liuwa",
+                  "type": "internal",
+                  "page": "Liuwa (constituency)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Situmbeko Musokotwane"
+                ]
+              }
+            },
+            {
+              "text": "Prior to his appointment he served as Minister of Finance from 2008 to 2011 under Rupiah Banda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rupiah Banda"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Minister of Finance of Zambia",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "5",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Situmbeko Musokotwane"
+          },
+          "birth_name": {
+            "text": "Situmbeko Musokotwane"
+          },
+          "birth_date": {
+            "text": "May 25, 1956"
+          },
+          "image": {
+            "text": "Musokotwane, Situmbeko (IMF 2009).jpg"
+          },
+          "caption": {
+            "text": "Situmbeko Musokotwane at the 2009 International Monetary Fund/World Bank meeting."
+          },
+          "order": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Zambia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 August 2021"
+          },
+          "predecessor": {
+            "text": "Bwalya Ng’andu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bwalya Ng’andu"
+              }
+            ]
+          },
+          "president": {
+            "text": "Hakainde Hichilema",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hakainde Hichilema"
+              }
+            ]
+          },
+          "order1": {
+            "text": "Member of the National Assembly for Liuwa",
+            "links": [
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly of Zambia"
+              },
+              {
+                "text": "Liuwa",
+                "type": "internal",
+                "page": "Liuwa (constituency)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 2021"
+          },
+          "president1": {
+            "text": "Hakainde Hichilema",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hakainde Hichilema"
+              }
+            ]
+          },
+          "order2": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Zambia)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "predecessor2": {
+            "text": "N’gandu Peter Magande",
+            "links": [
+              {
+                "type": "internal",
+                "page": "N’gandu Peter Magande"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Alexander Chikwanda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Chikwanda"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Rupiah Banda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rupiah Banda"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Economist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economist"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Konstanz University (PhD) University of Zambia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Konstanz University"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              },
+              {
+                "type": "internal",
+                "page": "University of Zambia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Zambian President Hichilema appoints new finance minister",
+          "url": "https://www.swissinfo.ch/eng/reuters/zambian-president-hichilema-appoints-new-finance-minister/46900402",
+          "access-date": "2021-08-27",
+          "website": "SWI swissinfo.ch",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Liuwa {{!}} National Assembly of Zambia",
+          "url": "https://www.parliament.gov.zm/node/1147",
+          "access-date": "2021-08-27",
+          "website": "www.parliament.gov.zm",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "zamobserver",
+          "date": "2021-08-27",
+          "title": "Situmbeko Musokotwane is new Finance Minister",
+          "url": "https://www.zambianobserver.com/situmbeko-musokotwane-is-new-finance-minister/",
+          "access-date": "2021-08-27",
+          "website": "The Zambian Observer",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

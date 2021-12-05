@@ -1,0 +1,126 @@
+{
+  "title": "Sylvia Masebo",
+  "pageID": 55812115,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Members of the National Assembly (Zambia)",
+    "Movement for Multi-Party Democracy politicians",
+    "Patriotic Front (Zambia) politicians",
+    "Health ministers of Zambia",
+    "Local government ministers of Zambia",
+    "Tourism ministers of Zambia",
+    "Women government ministers of Zambia",
+    "21st-century women politicians",
+    "People from Lusaka Province",
+    "Women in Zambia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sylvia Masebo (born March 7, 1963) is a Zambian entrepreneur, politician and National Assembly of Zambia representative for Chongwe constituency with the United Party for National Development (UPND).",
+              "links": [
+                {
+                  "text": " Chongwe constituency",
+                  "type": "internal",
+                  "page": "Chongwe (constituency) "
+                },
+                {
+                  "type": "internal",
+                  "page": "United Party for National Development"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sylvia Masebo"
+                ]
+              }
+            },
+            {
+              "text": "Sylvia Masebo holds a degree in Banking and Finance and has been the National Assembly of Zambia representative for Chongwe constituency since 2001; first standing on the ticket of Zambian Republican Party (ZRP) and then later, MMD Movement for Multi-Party Democracy in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Movement for Multi-Party Democracy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She served as Minister of Health from August 2005-October 2006 after succeeding Brian Chituwo.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Zambia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1963",
+          "month": "3",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sylvia Masebo"
+          },
+          "birth_date": {
+            "text": "March 7, 1963"
+          },
+          "party": {
+            "text": "ZRP (2001-2003) MMD (2003–2011) PF(2011–2014) UPND (2015–present)",
+            "links": [
+              {
+                "text": "ZRP",
+                "type": "internal",
+                "page": "Zambian Republican Party (ZRP)"
+              },
+              {
+                "text": "MMD",
+                "type": "internal",
+                "page": "Movement for Multi-Party Democracy"
+              },
+              {
+                "text": "PF",
+                "type": "internal",
+                "page": "Patriotic Front (Zambia)"
+              },
+              {
+                "text": "UPND",
+                "type": "internal",
+                "page": "United Party for National Development"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.gov.zm/node/150",
+          "title": "Sylvia Masebo {{!}} National Assembly of Zambia",
+          "website": "www.parliament.gov.zm",
+          "access-date": "2017-11-16",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

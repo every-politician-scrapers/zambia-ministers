@@ -1,0 +1,241 @@
+{
+  "title": "Mutale Nalumango",
+  "pageID": 67696571,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "21st-century women politicians",
+    "Movement for Multi-Party Democracy politicians",
+    "United Party for National Development politicians",
+    "Vice-presidents of Zambia",
+    "Women in Zambia",
+    "Women vice presidents",
+    "Zambian women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mutale Nalumango (born 1 January 1955) is an educator and politician who is the 14th and current vice-president of Zambia, the second woman to hold the position.",
+              "links": [
+                {
+                  "text": "vice-president of Zambia",
+                  "type": "internal",
+                  "page": "vice-president of Zambia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mutale Nalumango"
+                ]
+              }
+            },
+            {
+              "text": "She previously served as vice-president of the Secondary Schools’ Teachers Union of Zambia before resigning to begin her political career in 2001."
+            },
+            {
+              "text": "She first became a member of the National Assembly in 2001 as a member of the Movement for Multiparty Democracy, representing the Kaputa Constituency.",
+              "links": [
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Zambia"
+                },
+                {
+                  "text": "Movement for Multiparty Democracy",
+                  "type": "internal",
+                  "page": "Movement for Multi-Party Democracy"
+                },
+                {
+                  "text": "Kaputa Constituency",
+                  "type": "internal",
+                  "page": "Kaputa (constituency)"
+                }
+              ]
+            },
+            {
+              "text": "She later served as deputy minister of information and deputy speaker in parliament, the first woman to hold that position."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Zambian politician",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1955",
+          "month": "01",
+          "day": "01",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mutale Nalumango"
+          },
+          "image": {
+            "text": "Mutale Nalumango (cropped).jpg"
+          },
+          "office": {
+            "text": "14th Vice-President of Zambia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice-President of Zambia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 August 2021"
+          },
+          "predecessor": {
+            "text": "Inonge Wina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Inonge Wina"
+              }
+            ]
+          },
+          "president": {
+            "text": "Hakainde Hichilema",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hakainde Hichilema"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Speaker of the National Assembly of Zambia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Zambia"
+              }
+            ]
+          },
+          "term_end1": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_start1": {
+            "text": "2006",
+            "number": 2006
+          },
+          "president1": {
+            "text": "Levy Mwanawasa Rupiah Banda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Levy Mwanawasa"
+              },
+              {
+                "type": "internal",
+                "page": "Rupiah Banda"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Speaker",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "Speaker of the National Assembly of Zambia"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Amusaa Mwanamwambwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amusaa Mwanamwambwa"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the National Assembly of Zambia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Assembly of Zambia"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Kaputa",
+            "links": [
+              {
+                "text": "Kaputa",
+                "type": "internal",
+                "page": "Kaputa (constituency)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Paul Bupe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Bupe"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Maxas Ng'onga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maxas Ng'onga"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 December 2001"
+          },
+          "term_end2": {
+            "text": "20 September 2011"
+          },
+          "birth_date": {
+            "text": "January 1, 1955"
+          },
+          "party": {
+            "text": "MMD UPND",
+            "links": [
+              {
+                "text": "MMD",
+                "type": "internal",
+                "page": "Movement for Multi-Party Democracy"
+              },
+              {
+                "text": "UPND",
+                "type": "internal",
+                "page": "United Party for National Development"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Max Lubinda Nalumango"
+          },
+          "nationality": {
+            "text": "Zambian"
+          }
+        }
+      ]
+    }
+  ]
+}

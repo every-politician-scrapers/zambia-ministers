@@ -1,0 +1,155 @@
+{
+  "title": "Nelly Mutti",
+  "pageID": 56727313,
+  "categories": [
+    "Living people",
+    "Speakers of the National Assembly (Zambia)",
+    "University of Zambia alumni",
+    "University of Zambia faculty",
+    "1956 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nelly Butete Kashumba Mutti (born 30 August 1956) is a Zambian lawyer and is first woman to serve as the Speaker of the National Assembly  after going through unopposed.",
+              "links": [
+                {
+                  "text": "Speaker",
+                  "type": "internal",
+                  "page": "Speaker of the National Assembly of Zambia"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Zambia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nelly Butete Kashumba Mutti"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Speaker of the National Assembly of Zambia",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1956",
+          "month": "8",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nelly Butete Kashumba Mutti"
+          },
+          "office": {
+            "text": "7th Speaker of the National Assembly",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "Speaker of the National Assembly of Zambia"
+              },
+              {
+                "text": "National Assembly",
+                "type": "internal",
+                "page": "National Assembly of Zambia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 September 2021"
+          },
+          "predecessor": {
+            "text": "Patrick Matibini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Matibini"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "August 30, 1956"
+          },
+          "profession": {
+            "text": "Lawyer"
+          },
+          "alma_mater": {
+            "text": "University of Zambia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zambia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Nelly Butete Kashumba Mutti {{!}} National Assembly of Zambia",
+          "url": "https://www.parliament.gov.zm/node/9465",
+          "access-date": "2021-09-14",
+          "website": "www.parliament.gov.zm",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nelly Butete Kashumba Mutti – Emeritus Reinsurance",
+          "url": "http://www.emeritusre.com/team/nelly-butete-kashumba-mutti/",
+          "access-date": "2021-09-03",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Zambia : Prominent Lusaka Lawyer Nelly Mutti elected as the first ever woman Speaker of the National Assembly",
+          "url": "https://www.lusakatimes.com/2021/09/03/prominent-lusaka-lawyer-nelly-mutti-elected-as-the-first-ever-woman-speaker-of-the-national-assembly/",
+          "access-date": "2021-09-03",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "zamobserver",
+          "date": "2021-09-03",
+          "title": "Who is Nelly Mutti?",
+          "url": "https://www.zambianobserver.com/who-is-nelly-mutete-kashumba-mutti/",
+          "access-date": "2021-09-03",
+          "website": "The Zambian Observer",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Zambia elects first woman as parliament speaker",
+          "url": "https://www.news24.com/news24/africa/news/zambia-elects-first-woman-as-parliament-speaker-20210903",
+          "access-date": "2021-09-06",
+          "website": "News24",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
