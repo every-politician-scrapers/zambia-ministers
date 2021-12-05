@@ -1,1 +1,31 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q1243653,Dora Siliya,Dora Siliya,female,1970-10-08,11,,,Q45396256,Minister - Agriculture,Q1243653-1C71FC70-9894-43EB-B07D-47CC2F727BF2
+Q1403691,Felix Mutati,Felix Mutati,male,1959-01-29,11,,,Q45396395,Finance Minister of Zambia,Q1403691-58E41C86-F539-40B0-BFC2-F8269ABAAC18
+Q19560917,Harry Kalaba,Harry Kalaba,male,1976-06-12,11,,,Q18204398,Minister of Foreign Affairs,Q19560917-1426E4C1-24F2-48B0-9C78-772567266452
+Q27063131,Joyce Nonde-Simukoko,Joyce Nonde-Simukoko,female,1957-12-10,11,,,Q45396560,Minister - Labour and Social Security,Q27063131-504380BC-4C27-4718-927B-2D962275331C
+Q27063175,Davies Chama,Davies Chama,male,1964-08-21,11,,,Q45396374,Minister - Defense,Q27063175-4AB96594-1FAD-47B4-86B9-FB051E351047
+Q27063490,Chitalu Chilufya,Chitalu Chilufya,male,1972-07-15,11,,,Q45396475,Minister - Health,Q27063490-4A847745-954E-407D-945E-E9469C6BBFA0
+Q27063683,Stephen Kampyongo,Stephen Kampyongo,male,1972-06-12,11,,,Q45396504,Minister - Home Affairs,Q27063683-2467DC46-1FE6-4F98-8240-79256AA12724
+Q27063686,Godfridah Sumaili,Godfridah Sumaili,female,1957-05-26,11,,,Q45396670,Minister - Religious Affairs and National Guidance,Q27063686-B7E13CC1-02CB-46C0-819B-D1E8AE2AB86C
+Q27517522,Micheal Katambo,Micheal Katambo,male,1969-09-16,11,,,Q45396409,Minister - Fisheries and Livestock,Q27517522-186D4D9A-5274-42CA-AD95-151BE42FB592
+Q27662555,Brian Mushimba,Brian Mushimba,male,1974-11-07,11,,,Q45396700,Minister - Transport and Communication,Q27662555-BD00E0BE-71A3-409D-ACD7-602505A4E019
+Q27891778,Nkandu Luo,Nkandu Luo,female,1951-12-21,11,,,Q45396490,Minister - Higher Education,Q27891778-D2AF7B02-5A54-4B5F-B4A4-379E9DDD8CF3
+Q27947831,Jean Kapata,Jean Kapata,female,1960-12-25,11,,,Q45396576,Minister - Lands and Natural Resources,Q27947831-9A304BB8-4173-47B1-BC2C-EABE2D697E36
+Q29539929,Emerine Kabanshi,Emerine Kabanshi,female,1964-11-27,11,,,Q45396356,Minister - Community Development and Social Welfare,Q29539929-3502CF5E-AF5E-4E6A-BA3A-7FA8E77174FD
+Q29539935,Kampamba Chilumba,Kampamba Chilumba,female,1976-03-03,11,,,Q45396529,Minister - Information and Broadcasting,Q29539935-F45626DC-A4C1-4127-820A-703EF8BA696E
+Q29539941,Sylvia Chalikosa,Sylvia Chalikosa,female,1964-03-29,11,,,Q45396637,Minister - Office of the Vice President,Q29539941-21E60EA5-5E1C-47DE-9D0B-5EFC60A4CE47
+Q29539945,Lloyd Kaziya,Lloyd Kaziya,male,1969-07-27,11,,,Q45396718,"Minister - Water Development, Sanitation and Environmental Protection",Q29539945-121C7204-8FFC-4756-9632-7F00D62209D5
+Q29539950,Chomba Sikazwe,Chomba Sikazwe,male,1961-01-01,11,,,Q45396654,Minister - Presidential Affairs,Q29539950-89490D75-54A6-4F67-906F-EB6C04548CD7
+Q29539957,Ronald Chitotela,Ronald Chitotela,male,1972-04-21,11,,,Q45396519,Minister - Housing and Infrastructure Development,Q29539957-984EA2CC-EA61-4859-9A88-C2F7D249267A
+Q29539961,Matthew Nkhuwa,Matthew Nkhuwa,male,1954-01-24,11,,,Q45396735,Minister - Works and Supply,Q29539961-9724BF53-CAC9-4DA4-BFEE-FEDD1EC38508
+Q29539966,Lucky Mulusa,Lucky Mulusa,male,1965-03-30,11,,,Q45396621,Minister - National Development and Planning,Q29539966-A0B6DA0A-3ECA-4F0D-8646-711F690D5E07
+Q29543126,Christopher Yaluma,Christopher Yaluma,male,1952-05-31,11,,,Q45396605,Minister - Mines and Minerals Development,Q29543126-A10AD0F6-1976-4A58-A097-13123CDB6506
+Q29555795,Vincent Mwale,Vincent Mwale,male,1978-12-05,11,,,Q45396591,Minister - Local Government,Q29555795-4B019489-9CB6-4A9B-A8DF-E6CBD00B08C8
+Q29555797,Moses Mawere,Moses Mawere,male,1980-03-14,11,,,Q45396753,"Minister - Youth, Sport and Child Development",Q29555797-A8078228-7825-47B2-82AE-AE35A3BD2AD2
+Q29555800,Charles Banda,Charles Banda,male,1956-11-22,11,,,Q45396682,Minister - Tourism and Arts,Q29555800-C9DB4F69-D8EF-4B6D-9F05-4D7AF3336421
+Q29555804,Dennis Wanchinga,Dennis Wanchinga,male,1947-11-10,11,,,Q45396461,Minister - General Education,Q29555804-1442539A-7A9B-4006-A54D-9010886A1B0A
+Q29556814,David Mabumba,David Mabumba,male,1971-04-23,11,,,Q45396386,Minister - Energy,Q29556814-C951CD01-F4D3-4D50-85C6-8D276074863E
+Q29556823,Lawrence Sichalwe,Lawrence Sichalwe,male,1961-12-24,11,,,Q45396321,Minister - Chiefs and Traditional Affairs,Q29556823-2695F42B-B8E2-4656-8C2C-16E13CAD8942
+Q5565823,Given Lubinda,Given Lubinda,male,1963-05-15,11,,,Q45396544,Justice Minister of Zambia,Q5565823-36A4BB93-4484-4D55-9B86-5411BAA72088
+Q6759764,Margaret Mwanakatwe,Margaret Mwanakatwe,female,1961-11-01,11,,,Q45396340,"Minister - Commerce, Trade and Industry",Q6759764-42D1E7BE-731C-4A50-8A1F-E1E78CB4A4E5
+Q7532178,Situmbeko Musokotwane,Situmbeko Musokotwane,male,1956-05-25,11,,,Q45396395,Finance Minister of Zambia,Q7532178-5324DCF9-EC85-4435-8DF0-DD46D62D38DB
