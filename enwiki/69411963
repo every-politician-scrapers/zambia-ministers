@@ -70,40 +70,22 @@
       ],
       "references": [
         {
+          "url": "https://www.parliament.gov.zm/node/5591",
+          "title": "Brenda Mwika Tambatamba &#124; National Assembly of Zambia",
+          "publisher": "Parliament.gov.zm",
+          "date": "1961-04-29",
+          "accessdate": "2021-12-12",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.parliament.gov.zm/node/5593",
+          "title": "Brenda Mwika Tambatamba 2016 &#124; National Assembly of Zambia",
+          "publisher": "Parliament.gov.zm",
+          "date": "2016-08-11",
+          "accessdate": "2021-12-12",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
