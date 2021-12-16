@@ -5,7 +5,8 @@
     "1961 births",
     "Living people",
     "Zambian politicians",
-    "United Party for National Development politicians"
+    "United Party for National Development politicians",
+    "21st-century Zambian women politicians"
   ],
   "sections": [
     {
@@ -51,13 +52,9 @@
                   "page": "Kasempa"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Tambatamba is a member of the United Party for National Development.",
+              "text": "She is a member of the United Party for National Development.",
               "links": [
                 {
                   "type": "internal",
@@ -66,6 +63,12 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2021",
+          "template": "one source"
         }
       ],
       "references": [
