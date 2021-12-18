@@ -105,6 +105,15 @@
           "birth_place": {
             "text": "Zambia"
           },
+          "alma_mater": {
+            "text": "United States Army War College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Army War College"
+              }
+            ]
+          },
           "occupation": {
             "text": "Military officer",
             "links": [
