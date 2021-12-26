@@ -20,12 +20,12 @@
         {
           "sentences": [
             {
-              "text": "Mutale Nalumango (born 1 January 1955) is an educator and politician who is the 14th and current vice-president of Zambia, the second woman to hold the position.",
+              "text": "Mutale Nalumango (born 1 January 1955) is an educator and politician who is the 14th and current vice president of Zambia, the second woman to hold the position.",
               "links": [
                 {
-                  "text": "vice-president of Zambia",
+                  "text": "vice president of Zambia",
                   "type": "internal",
-                  "page": "vice-president of Zambia"
+                  "page": "vice president of Zambia"
                 }
               ],
               "formatting": {
@@ -89,11 +89,11 @@
             "text": "Mutale Nalumango (cropped).jpg"
           },
           "office": {
-            "text": "14th Vice-President of Zambia",
+            "text": "14th Vice President of Zambia",
             "links": [
               {
                 "type": "internal",
-                "page": "Vice-President of Zambia"
+                "page": "Vice President of Zambia"
               }
             ]
           },
