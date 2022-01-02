@@ -210,36 +210,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Zambian President Hichilema appoints new finance minister",
-          "url": "https://www.swissinfo.ch/eng/reuters/zambian-president-hichilema-appoints-new-finance-minister/46900402",
-          "access-date": "2021-08-27",
-          "website": "SWI swissinfo.ch",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Liuwa {{!}} National Assembly of Zambia",
-          "url": "https://www.parliament.gov.zm/node/1147",
-          "access-date": "2021-08-27",
-          "website": "www.parliament.gov.zm",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "zamobserver",
-          "date": "2021-08-27",
-          "title": "Situmbeko Musokotwane is new Finance Minister",
-          "url": "https://www.zambianobserver.com/situmbeko-musokotwane-is-new-finance-minister/",
-          "access-date": "2021-08-27",
-          "website": "The Zambian Observer",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
