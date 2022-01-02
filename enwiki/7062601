@@ -237,30 +237,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Foundation",
-          "first": "Thomson Reuters",
-          "title": "Zambian opposition leader Hakainde Hichilema wins presidential election",
-          "url": "https://news.trust.org/item/20210816005527-u600i/",
-          "access-date": "16 August 2021",
-          "website": "news.trust.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Mfula",
-          "first": "Chris",
-          "date": "16 August 2021",
-          "title": "Zambian opposition leader Hakainde Hichilema wins landslide in presidential election",
-          "url": "https://www.reuters.com/world/africa/zambian-opposition-leader-hichilema-heads-closer-victory-presidential-vote-2021-08-15/",
-          "access-date": "16 August 2021",
-          "website": "Reuters",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
