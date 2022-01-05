@@ -67,6 +67,10 @@
       ],
       "templates": [
         {
+          "description": "Zambian politician",
+          "template": "short description"
+        },
+        {
           "date": "December 2021",
           "template": "one source"
         }
