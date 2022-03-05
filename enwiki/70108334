@@ -1,0 +1,41 @@
+{
+  "title": "Denny Kalyalya",
+  "pageID": 70108334,
+  "categories": [
+    "Zambian economists",
+    "Living people",
+    "University of Zambia alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Denny Kalyalya is a Zambian economist who is currently the Governor of Bank of Zambia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bank of Zambia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Denny Kalyalya"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor of Bank of Zambia",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
