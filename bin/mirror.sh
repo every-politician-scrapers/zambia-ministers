@@ -10,4 +10,4 @@ curl $CURLOPTS -o ministers-1.html "https://www.parliament.gov.zm/ministers/cabi
 curl $CURLOPTS -o ministers-2.html "https://www.parliament.gov.zm/ministers/cabinet?page=1"
 curl $CURLOPTS -o ministers-3.html "https://www.parliament.gov.zm/ministers/cabinet?page=2"
 
-cd -
+cd ~-
