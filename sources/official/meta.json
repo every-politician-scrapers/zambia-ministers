@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Zambia",
+      "id": "Q953"
+    },
+    "cabinet": {
+      "id": "Q109935301",
+      "start": "2021-08-27",
+      "parent": "Q5015573"
+    },
+    "source": {
+        "url":   "https://www.parliament.gov.zm/ministers/cabinet",
+        "title": "Cabinet Ministers | National Assembly of Zambia",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/zambia-ministers"
+}
