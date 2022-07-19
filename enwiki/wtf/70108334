@@ -1,0 +1,93 @@
+{
+  "title": "Denny Kalyalya",
+  "pageID": 70108334,
+  "categories": [
+    "Zambian economists",
+    "Living people",
+    "University of Zambia alumni",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Denny Kalyalya is a Zambian economist who is currently the Governor of Bank of Zambia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bank of Zambia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Denny Kalyalya"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor of Bank of Zambia",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bloomberg.com/news/articles/2021-09-27/kalyalya-returns-as-zambia-s-central-bank-head-after-shock-exit",
+          "title": "Kalyalya Returns as Bank of Zambia Governor After Shock Exit",
+          "first1": "Matthew",
+          "last1": "Hill",
+          "first2": "Taonga Clifford",
+          "last2": "Mitimingi",
+          "date": "27 September 2021",
+          "website": "Bloomberg News",
+          "access-date": "19 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/article/idUSKBN25I0NV",
+          "title": "Zambian president fires central bank governor in surprise move",
+          "author": "Reuters Staff",
+          "date": "22 August 2021",
+          "website": "Reuters",
+          "access-date": "19 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.daily-mail.co.zm/scammers-impersonate-boz-governor/",
+          "title": "Scammers impersonate BoZ governor",
+          "first": "Nancy",
+          "last": "Siame",
+          "date": "24 January 2022",
+          "website": "Zambia Daily Mail",
+          "access-date": "19 February 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "zambia-bio-stub"
+        }
+      ]
+    }
+  ]
+}

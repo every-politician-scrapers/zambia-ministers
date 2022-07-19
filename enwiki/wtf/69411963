@@ -1,0 +1,113 @@
+{
+  "title": "Brenda Mwika Tambatamba",
+  "pageID": 69411963,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Zambian politicians",
+    "United Party for National Development politicians",
+    "21st-century Zambian women politicians",
+    "21st-century Zambian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Brenda Mwika Tambatamba is a Zambian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zambian"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Brenda Mwika Tambatamba"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tambatamba was born on 1961-04-29."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tambatamba is a member of the National Assembly of Zambia for Kasempa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Zambia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kasempa"
+                }
+              ]
+            },
+            {
+              "text": "She is a member of the United Party for National Development.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Party for National Development"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Zambian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "one source"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.parliament.gov.zm/node/5591",
+          "title": "Brenda Mwika Tambatamba &#124; National Assembly of Zambia",
+          "publisher": "Parliament.gov.zm",
+          "date": "1961-04-29",
+          "accessdate": "2021-12-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parliament.gov.zm/node/5593",
+          "title": "Brenda Mwika Tambatamba 2016 &#124; National Assembly of Zambia",
+          "publisher": "Parliament.gov.zm",
+          "date": "2016-08-11",
+          "accessdate": "2021-12-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "zambia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
