@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Zambia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2008",
+    "P1365": {
+      "links": [
+        "N’gandu Peter Magande"
+      ],
+      "stated_as": "N’gandu Peter Magande"
+    },
+    "P582": "2011",
+    "P1366": {
+      "links": [
+        "Alexander Chikwanda"
+      ],
+      "stated_as": "Alexander Chikwanda"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Zambia",
+        "Liuwa (constituency)"
+      ],
+      "stated_as": "Member of the National Assembly for Liuwa"
+    },
+    "P580": "2021-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Zambia)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2021-08-27",
+    "P1365": {
+      "links": [
+        "Bwalya Ng’andu"
+      ],
+      "stated_as": "Bwalya Ng’andu"
+    }
+  }
+]

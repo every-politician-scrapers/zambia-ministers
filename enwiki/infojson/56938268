@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Zambia)",
+        "Kapiri Mposhi (constituency)"
+      ],
+      "stated_as": "Member of the National Assembly for Kapiri Mposhi"
+    },
+    "P580": "2016",
+    "P1365": {
+      "links": [
+        "Eddie Musonda"
+      ],
+      "stated_as": "Eddie Musonda"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Zambia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2021",
+    "P1365": {
+      "links": [
+        "Joseph Malanji"
+      ],
+      "stated_as": "Joseph Malanji"
+    }
+  }
+]

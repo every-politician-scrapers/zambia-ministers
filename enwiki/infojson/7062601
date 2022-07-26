@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "United Party for National Development"
+      ],
+      "stated_as": "President of the UPND"
+    },
+    "P580": "2006-05-24",
+    "P1365": {
+      "links": [
+        "Anderson Mazoka"
+      ],
+      "stated_as": "Anderson Mazoka"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Zambia"
+      ],
+      "stated_as": "7th President of Zambia"
+    },
+    "P580": "2021-08-24",
+    "P1365": {
+      "links": [
+        "Edgar Lungu"
+      ],
+      "stated_as": "Edgar Lungu"
+    }
+  }
+]
