@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly of Zambia"
+      ],
+      "stated_as": "Member of the National Assembly of Zambia"
+    },
+    "P580": "2001-12-27",
+    "P1365": {
+      "links": [
+        "Paul Bupe"
+      ],
+      "stated_as": "Paul Bupe"
+    },
+    "P582": "2011-09-20",
+    "P1366": {
+      "links": [
+        "Maxas Ng'onga"
+      ],
+      "stated_as": "Maxas Ng'onga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Zambia"
+      ],
+      "stated_as": "Deputy Speaker of the National Assembly of Zambia"
+    },
+    "P580": "2006",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of Zambia"
+      ],
+      "stated_as": "14th Vice President of Zambia"
+    },
+    "P580": "2021-08-24",
+    "P1365": {
+      "links": [
+        "Inonge Wina"
+      ],
+      "stated_as": "Inonge Wina"
+    }
+  }
+]
