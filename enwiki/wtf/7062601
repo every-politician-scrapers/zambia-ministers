@@ -114,6 +114,10 @@
       ],
       "templates": [
         {
+          "date": "July 2022",
+          "template": "moresources"
+        },
+        {
           "description": "President of Zambia since 2021",
           "template": "short description"
         },
@@ -705,7 +709,7 @@
               "text": "Following his victory, Hichilema declared his wish to appoint qualified Zambians into his administration."
             },
             {
-              "text": "Among his appointments were that of Sylvia Masebo, Situmbeko Musokotwane, Anthony Bwalya, Jito Kayumba and Garry Nkombo among others.",
+              "text": "Among his appointments were those of Sylvia Masebo, Situmbeko Musokotwane, and Jito Kayumba, among others.",
               "links": [
                 {
                   "type": "internal",
@@ -717,15 +721,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Anthony Bwalya"
-                },
-                {
-                  "type": "internal",
                   "page": "Jito Kayumba"
-                },
-                {
-                  "type": "internal",
-                  "page": "Garry Nkombo"
                 }
               ]
             }
@@ -914,7 +910,7 @@
         {
           "sentences": [
             {
-              "text": "Hichilema said in an interview on HARDtalk that during his time in prison he was held in solitary confinement for eight days without food, water, light or visitation, was tortured by having his penis pepper sprayed, and accused president Lungu of having tried to kill him.",
+              "text": "Hichilema said in an interview on HARDtalk that during his time in prison he was held in solitary confinement for eight days without food, water, light or visitation, was tortured by having his penis pepper sprayed, and accused President Lungu of having tried to kill him.",
               "links": [
                 {
                   "text": "HARDtalk",
@@ -932,20 +928,16 @@
                   "page": "pepper sprayed"
                 }
               ]
+            },
+            {
+              "text": "His wife, Mutinta, was reportedly turned away by prison officials when she tried to bring food to him."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "His wife, Mutinta, was turned away by prison officials when she took food for him."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Hichilema's arrest was the subject of the episode of Al Jazeera's The Stream TV program titled Is Zambia's Democracy in Danger which aired on 30 May 2017.",
+              "text": "The arrest was the subject of the episode of Al Jazeera's The Stream TV program titled Is Zambia's Democracy in Danger which aired on 30 May 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -1047,6 +1039,12 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
         }
       ],
       "references": [
