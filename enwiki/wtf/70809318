@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Gary Chilala Nkombo (born 1 March 1965) is a Zambian politician.",
+              "text": "Gary Chilala Nkombo (born 1 March 1965) is a Zambian politician and business man.",
               "links": [
                 {
                   "type": "internal",
@@ -96,12 +96,13 @@
             ]
           },
           "party": {
-            "text": "United Party For National Development",
-            "formatting": {
-              "bold": [
-                "United Party For National Development"
-              ]
-            }
+            "text": "United Party for National Development",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Party for National Development"
+              }
+            ]
           }
         }
       ],
@@ -119,16 +120,7 @@
         {
           "sentences": [
             {
-              "text": "Nkombo's political career has seen him serve under different parties including the Movement for Multi-Party Democracy (MMD).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Movement for Multi-Party Democracy"
-                }
-              ]
-            },
-            {
-              "text": "He was first elected as an MP in the 2011 Zambian general election representing Mazabuka Central in the National Assembly as a member of the United Party for National Development.",
+              "text": "Nkombo was first elected as an MP in the 2011 Zambian general election representing Mazabuka Central in the National Assembly as a member of the United Party for National Development.",
               "links": [
                 {
                   "text": "2011 Zambian general election",
@@ -147,7 +139,7 @@
               ]
             },
             {
-              "text": "He was also elected in the 2016 and 2021 Zambian general elections.",
+              "text": "He was again elected MP in the 2016 and 2021 Zambian general elections.",
               "links": [
                 {
                   "text": "2016",
@@ -166,7 +158,12 @@
         {
           "sentences": [
             {
-              "text": "In September 2021, Nkombo was appointed minister for Local Government And Rural Development."
+              "text": "In September 2021, Nkombo was appointed Minister of Local Government And Rural Development.",
+              "formatting": {
+                "italic": [
+                  "Minister of Local Government And Rural Development."
+                ]
+              }
             }
           ]
         }
@@ -185,13 +182,13 @@
           "type": "web"
         },
         {
+          "url": "http://www.daily-mail.co.zm/minister-visits-his-former-prison-cell/",
+          "title": "Minister of Local Government and Rural Development Gary Nkombo visits former prison cell",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
-          "title": "Gary G Nkombo ~Minister - Local Government and Rural Development (Sep-2021)",
+          "title": "Gary G Nkombo, Minister - Local Government and Rural Development (Sep-2021)",
           "url": "https://www.parliament.gov.zm/node/9436",
           "website": "National Assembly of Zambia",
           "access-date": "13 July 2022",
@@ -217,7 +214,7 @@
               ]
             },
             {
-              "text": "After a video circulated on social media, many people expressed disappointment in the minister and he apologised to the family.",
+              "text": "After a video circulated on social media, many people expressed disappointment in the minister.",
               "links": [
                 {
                   "text": "social media",
@@ -225,6 +222,9 @@
                   "page": "social media"
                 }
               ]
+            },
+            {
+              "text": "A few days later, he apologised to the family and was forgiven."
             }
           ]
         }
